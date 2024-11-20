@@ -1,5 +1,3 @@
-# ds_portfolio_website
-
 # Welcome to My Portfolio
 
 ## About Me
